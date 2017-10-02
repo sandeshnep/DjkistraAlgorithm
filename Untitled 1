@@ -1,0 +1,14 @@
+README
+Name: Sandesh Paudel
+Email: spaudel@u.rochester.edu
+
+Overview:
+I had the maps print out fine. I really struggled to make the Dijkstra's algorithm work. Even after multiple days of work, I wasn't
+able to correctly implement it. Right now it gives wrong roads and intersections which are printed out in the console. Please check 
+the paint method in the Main class to see it in action. Please consider my code and all the effort I put into it. 
+
+The paint method has a method that takes in String ID of two points and computes the paths. 
+
+Additionally, I put citations for the code that I reffered to as comments on the code itself. Please email me if you have any questions.
+
+ 
